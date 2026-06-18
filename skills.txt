@@ -1,0 +1,285 @@
+Python
+Java
+C
+C++
+C#
+Go
+Rust
+Kotlin
+Scala
+Swift
+R
+MATLAB
+PHP
+Ruby
+Perl
+JavaScript
+TypeScript
+
+HTML
+CSS
+Bootstrap
+Tailwind CSS
+SASS
+LESS
+
+React
+Next.js
+Angular
+Vue.js
+Svelte
+Redux
+Webpack
+Vite
+
+Node.js
+Express.js
+Flask
+Django
+FastAPI
+Spring Boot
+Hibernate
+ASP.NET
+Laravel
+Ruby on Rails
+
+REST API
+GraphQL
+gRPC
+Microservices
+
+MySQL
+PostgreSQL
+SQLite
+Oracle SQL
+Microsoft SQL Server
+MongoDB
+Cassandra
+Redis
+DynamoDB
+Neo4j
+CouchDB
+Firebase
+
+SQL
+PL/SQL
+Database Design
+Normalization
+Indexing
+Query Optimization
+
+Git
+GitHub
+GitLab
+Bitbucket
+CI/CD
+Jenkins
+GitHub Actions
+CircleCI
+
+Linux
+Unix
+Shell Scripting
+Bash
+PowerShell
+
+Docker
+Kubernetes
+Helm
+Terraform
+Ansible
+Vagrant
+
+AWS
+Azure
+Google Cloud Platform
+EC2
+S3
+RDS
+Lambda
+CloudFormation
+Redshift
+EMR
+ECS
+SNS
+SQS
+IAM
+CloudWatch
+
+BigQuery
+Dataflow
+Dataproc
+Pub/Sub
+
+Machine Learning
+Deep Learning
+Artificial Intelligence
+Generative AI
+NLP
+Computer Vision
+Reinforcement Learning
+Transfer Learning
+
+TensorFlow
+PyTorch
+Keras
+Scikit-learn
+XGBoost
+LightGBM
+CatBoost
+OpenCV
+Hugging Face
+Transformers
+spaCy
+NLTK
+
+LLM
+GPT
+LangChain
+LlamaIndex
+CrewAI
+AutoGen
+RAG
+Vector Databases
+Prompt Engineering
+Fine Tuning
+
+Pandas
+NumPy
+SciPy
+Matplotlib
+Seaborn
+Plotly
+
+Data Analysis
+Data Cleaning
+Feature Engineering
+Data Visualization
+Exploratory Data Analysis
+Statistical Analysis
+
+Apache Spark
+PySpark
+Hadoop
+Hive
+Pig
+Kafka
+Flink
+Airflow
+Databricks
+
+Data Warehousing
+ETL
+ELT
+Data Modeling
+
+Computer Networks
+Operating Systems
+DBMS
+Object Oriented Programming
+Data Structures
+Algorithms
+System Design
+Distributed Systems
+
+Multithreading
+Concurrency
+Parallel Computing
+
+Cybersecurity
+Ethical Hacking
+Penetration Testing
+Network Security
+Cryptography
+OWASP
+
+Android Development
+Jetpack Compose
+Flutter
+React Native
+iOS Development
+
+Unit Testing
+Integration Testing
+JUnit
+PyTest
+Selenium
+Cypress
+Postman
+
+Agile
+Scrum
+Kanban
+JIRA
+Confluence
+
+Blockchain
+Solidity
+Ethereum
+Web3
+
+AR
+VR
+Unity
+Unreal Engine
+
+Figma
+UI Design
+UX Design
+Wireframing
+
+Excel
+Power BI
+Tableau
+Looker
+
+Snowflake
+Airbyte
+dbt
+Informatica
+Talend
+
+MLOps
+Model Deployment
+Model Monitoring
+MLflow
+Kubeflow
+
+Natural Language Processing
+Named Entity Recognition
+Sentiment Analysis
+Topic Modeling
+Text Classification
+
+Computer Vision
+Object Detection
+Image Classification
+Image Segmentation
+
+Recommendation Systems
+Time Series Forecasting
+A/B Testing
+
+Embedded Systems
+ARM
+Arduino
+Raspberry Pi
+IoT
+
+TCP/IP
+HTTP
+HTTPS
+DNS
+VPN
+
+OAuth
+JWT
+Authentication
+Authorization
+
+Software Engineering
+Design Patterns
+Clean Code
+Code Review
+Debugging
+Performance Optimization
